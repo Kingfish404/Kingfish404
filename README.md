@@ -8,6 +8,8 @@
 
 - ⚡ Fun fact: I'm still single.
 
+- 📒 广告位招租
+
 <!--
 **Kingfish404/Kingfish404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
