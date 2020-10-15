@@ -8,4 +8,3 @@
 
 - ⚡ Fun fact: I'm still single.
 
-[![](https://github-readme-stats.vercel.app/api?username=Kingfish404&show_icons=true)](https://github.com/Kingfish404)
