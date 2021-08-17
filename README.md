@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: [jinyu929@whut.edu.cn](jinyu929@whut.edu.cn)
 
-- ⚡ Fun fact: I'm still single for a long time.
+- ⚡ Fun fact: The object is not empty.(:
 
 ![Kingfish404's github stats](https://github-readme-stats.vercel.app/api?username=kingfish404&hide=issues&hide_rank=true)
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingfish404&layout=compact&custom_title=Most-Used-Langs-In-Github" alt="Top Langs!">
