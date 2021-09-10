@@ -2,7 +2,7 @@
 
 <img align="right" width="150px"  src="https://i.loli.net/2021/07/31/zlbHupS9nQ7a3fJ.jpg" >
 
-- ⚙️ Currently, I am doing a summer internship in a nice team in [Alibaba](https://github.com/alibaba/).
+- ⚙️ Currently, I am learning in school.
 
 - 👯 I’m looking to collaborate on make a game engine or making something interesting!  
 
