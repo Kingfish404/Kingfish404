@@ -2,9 +2,9 @@
 
 <img align="right" width="150px"  src="https://i.loli.net/2021/07/31/zlbHupS9nQ7a3fJ.jpg" >
 
-- ⚙️ Currently, I am studying in university.
+- ⚙️ Currently, I am studying in university, interesting in ML and frontend.
 - 👯 I’m looking to collaborate on making a game engine or making something interesting!  
-- 📫 How to reach me: [jinyu9@acm.org](jinyu9@acm.org)
+- 📫 How to reach me: [jin-yu@acm.org](jin-yu@acm.org)
 - ⚡ Fun fact: The object is not empty.(:
 
 ![Kingfish404's github stats](https://github-readme-stats.vercel.app/api?username=kingfish404&hide=issues&hide_rank=true)
