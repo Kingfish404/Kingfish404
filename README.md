@@ -1,6 +1,6 @@
 ### Hi there 👋, this is Jin Yu
 
-- ⚙️ Currently, I am participating in a research internship at Megvii, engaged in classification tasks.
+- ⚙️ Currently, I am participating in a research internship at Megvii.
 - 👯 I’m looking to collaborate on making a game engine or making something interesting!  
 - 📫 How to reach me: [jin-yu@acm.org](jin-yu@acm.org)
 
