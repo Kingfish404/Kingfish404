@@ -1,7 +1,5 @@
 ### Hi there 👋, this is Jin Yu
 
-- ⚙️ Currently, I am participating in a research internship at Megvii.
-- 👯 I’m looking to collaborate on making a game engine or making something interesting!  
 - 📫 How to reach me: [lambda.jinyu@gmail.com](lambda.jinyu@gmail.com)
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Kingfish404/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=classic)](https://githubtrends.io)
