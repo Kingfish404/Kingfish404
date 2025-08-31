@@ -1,6 +1,13 @@
-### Hi there 👋, this is Jin Yu
+### Hi there 👋, this is Yu Jin (金宇)
 
-- 📫 How to reach me: [lambda.jinyu@gmail.com](lambda.jinyu@gmail.com)
+<img width="44%" align="left" src="https://github-readme-stats.vercel.app/api?username=kingfish404&count_private=true&show_icons=true&theme=transparent" />
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Kingfish404/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=classic)](https://githubtrends.io)
-![Kingfish404's github stats](https://github-readme-stats.vercel.app/api?username=kingfish404&hide=issues&hide_rank=true)
+<div align="right">
+  <p>:mailbox: How to reach me:
+    <a href="mailto:lambda.jinyu@gmail.com">lambda.jinyu@gmail.com</a>
+  </p>
+  <p>
+  「我知这世界，本如露水般短暂。</br>
+  然而，然而。」
+  </p>
+</div>
